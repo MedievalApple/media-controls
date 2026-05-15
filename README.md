@@ -2,6 +2,8 @@
 
 Show controls and information of the currently playing media in the panel.
 
+This is my fork of the original [sakithb/media-controls](https://github.com/sakithb/media-controls)
+
 ## Features
 
 - Customize the extension the way you want it
@@ -14,12 +16,6 @@ Show controls and information of the currently playing media in the panel.
 ---
 
 ## How to install
-
-#### Install from extensions.gnome.org (Recommended)
-
-[<img src="assets/images/ego.png" height="100">](https://extensions.gnome.org/extension/4470/media-controls/)
-
-#### Manual installation
 
 Install from source
 

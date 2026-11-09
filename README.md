@@ -1,8 +1,11 @@
+> [!IMPORTANT] 
+> This is my fork of the original [sakithb/media-controls](https://github.com/sakithb/media-controls)
+> - I am by no means a Gnome Extension Developer, but I am learning to keep this extension maintained.
+> - There may be bugs or crashes, please use at your own risk. (Tested on Gnome 50)
+
 ## What does this extension do?
 
 Show controls and information of the currently playing media in the panel.
-
-This is my fork of the original [sakithb/media-controls](https://github.com/sakithb/media-controls)
 
 ## Features
 
@@ -45,7 +48,6 @@ This project uses pnpm for package management and script execution. Make sure yo
 
 **Building:**
 - `pnpm build` - Build the extension
-- `pnpm release` - Build release version (strips debug code)
 
 **Development:**
 - `pnpm debug` - Run a nested gnome session for debugging
@@ -78,8 +80,8 @@ If you are interested in translating, download the [po file](https://github.com/
 
 If you are interested in contributing code. There are no specific guidelines for contributing. Just make sure you follow the coding style of the project. To update the translation files run `pnpm run translations` in the extensions directory after your changes are done. This will update the files in the locale folder.
 
-<a href="https://github.com/sakithb/media-controls/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=sakithb/media-controls" />
+<a href="https://github.com/MedievalApple/media-controls/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MedievalApple/media-controls" />
 </a>
 
 Made with [contrib.rocks](https://contrib.rocks).
